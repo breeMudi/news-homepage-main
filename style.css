@@ -27,6 +27,7 @@ h4 {
 
 .container {
     padding: 20px;
+    padding-bottom: 50px;
 }
 
 
@@ -67,7 +68,7 @@ h1, .sect5 h4 {
 
 h1 {
     font-weight: 800;
-    font-size: 2.7rem;
+    font-size: 2.6rem;
     line-height: 1;
 }
 
@@ -140,7 +141,7 @@ h1 {
     justify-content: space-between;
 }
 
-/* navigation bar */
+/* navigation bar settings*/
 
 .navlist-bg {
     display: none;
@@ -152,7 +153,6 @@ h1 {
     background-color: #ffffff;
     padding: 150px 30px 30px ;
     z-index: 1;
-    /* opacity: 0.2; */
 }
 
 .navlist {
@@ -163,9 +163,9 @@ h1 {
     font-weight: 400;
 }
 
-nav {
-    /* visibility: hidden; */
-}
+/* nav {
+    /* visibility: hidden; 
+} */
 
 @media (min-width:412px) {
 
@@ -202,7 +202,7 @@ nav {
         display: flex;
         flex-direction: row;
         gap: 40px;
-        opacity: 0.6;
+        opacity: 1;
     }
 
     /* rearrange blocks */
