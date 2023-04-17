@@ -17,7 +17,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![The desktop view of the qr-component](./my_desktop_view.png)
+![The desktop view of the news homepage](./my_desktop_view.png)
 <!-- ![](./desktop_view.jpg)![desktop_view](https://user-images.githubusercontent.com/65234249/224862538-59bda0ed-f0b9-41c6-9706-4af1b6f8087b.png) -->
 
 ### Links
